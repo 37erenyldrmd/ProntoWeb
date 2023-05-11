@@ -1,9 +1,9 @@
 import ErrorPage from '../components/ErrorPage';
 const UnkownPage = () => {
     let messages = [
-        'Have you lost your way, kiddo?',
-        'Damn it! This dead-end road.',
-        'The Aurors blocked this road, Harry!'
+        'yolunu mu kaybettin dostum?',
+        'Kahretsin! Bu çıkmaz yol.',
+        'Eren bu sayfayı kapattı, Coni!'
     ];
 
     return <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Yanlış Sayfadasın Dostum."} />

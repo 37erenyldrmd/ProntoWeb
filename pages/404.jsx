@@ -3,8 +3,8 @@ const UnkownPage = () => {
     let messages = [
         'yolunu mu kaybettin dostum?',
         'Kahretsin! Bu çıkmaz yol.',
-        'Eren bu sayfayı kapattı, Coni!'
-    ];
+        'Eren bu sayfayı kapattı, Jonny!'
+  
 
     return <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Yanlış Sayfadasın Dostum."} />
 }

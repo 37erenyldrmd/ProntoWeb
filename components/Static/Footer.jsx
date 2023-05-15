@@ -30,78 +30,59 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+<a href="https://www.instagram.com/37erenyldrm/">
+  <img src={"https://www.hizliresim.com/7mnuw31"}/>
 </a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
-</a>
+
                                 </div>
                             </Menu>
                         
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
+                            
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                <a href="https://discord.gg/veR37TpbF3" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Sunucumuz
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                <a href="https://bit.ly/41vCQo3" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Botu Davet Et
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/veR37TpbF3">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
+                          
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
+                                <Link href="https://www.instagram.com/37erenyldrm/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube 
+                                    <i className={`fa-brands fa-instagram`} /> İnstagram 
                                     </a>
                                 </Link>
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        Kullanım Şartları
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                        Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
@@ -109,15 +90,15 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Astra Bot
+                            {new Date().getFullYear()} &copy; Pronto Bot
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-green-400"}>
-                                    Bot Online
+                                <p className={"text-xs text-white-400"}>
+                                    Bot Bakımda Çevrimdışı
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Astra Bot ❤️"}
+                            {"Pronto Bot ❤️"}
                         </p>
                     </div>
                 </div>

@@ -10,15 +10,15 @@ class MyDocument extends Document {
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
-            name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            name="Botun tanımı"
+            content="Gelişmiş Müzik Sistemi İle Keyifli Müzikler Dinleyebilirsiniz."
           />
           <meta name="instagram:card" content="37erenyldrm" />
           <meta name="instagram:site" content="@37erenyldrm" />
           <meta name="instagram:creator" content="@37erenyldrm" />
           <meta property="og:url" content="https://pronto-bot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="ProntoMaker" />
+          <meta property="og:title" content="Pronto" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="ProntoMaker"
+            content="Pronto"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
